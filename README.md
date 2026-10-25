@@ -604,8 +604,4 @@ push to main
 | `VERCEL_PROJECT_ID` | Vercel project ID |
 
 ---
-[Ganesh Daware](https://ganeshdev.me/)
-## License
 
-
-MIT — Built with ❤️ by [Ganesh Daware](https://github.com/blckspidey)
